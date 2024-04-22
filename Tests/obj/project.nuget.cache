@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "20GFExxT0gpB/0jMwRIbrD5TOyZNGho5ke+IB4IkaaPwxfdC+cpWJNvd97M6zprBj2GHFWQyNAMdsGRzqCAsSg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\anshu\\source\\repos\\assessment3_anshu\\Tests\\Tests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project rpgAPI is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project rpgAPI supports: net8.0 (.NETCoreApp,Version=v8.0)",
+      "libraryId": "rpgAPI",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
